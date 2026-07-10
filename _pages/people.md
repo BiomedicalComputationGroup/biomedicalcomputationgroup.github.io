@@ -92,11 +92,11 @@ horizontal: false
   <br>
 </div>
 
-### Honours and Masters
+### Bachelors and Masters
 
 <div>
   {%- for person in site.alumni -%}
-    {%- if "Honours" == person.category or "Master" == person.category-%}
+    {%- if "Honours" == person.category or "Master" == person.category or "Bachelor" == person.category-% }
       <li class="tab">{{ person.title }}, {{ person.degree }}</li>
     {%- endif -%}
   {%- endfor -%}
