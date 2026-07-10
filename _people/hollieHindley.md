@@ -3,10 +3,10 @@ layout: page
 title: Hollie Hindley
 firstNames: Hollie
 surnames: Hindley
-description: PhD student
+description: Posdoctoral researcher
 img: assets/img/profiles/hollieHindley_cropped.jpg
 importance: 1
-category: PhD
+category: Postdocs
 projects: [growth, ar]
 degree: MSc.
 ---
