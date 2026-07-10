@@ -14,7 +14,7 @@ degree: MSc.
 <div class="row">
   <div class="col-sm mt-3 mt-md-0">
     <p style="text-align: justify">
-      I am currently in my first year of the <a href="https://www.ai4biomed.io/">CDT in AI for Biomedical Innovation</a> 
+      I am currently in my second year of the <a href="https://www.ai4biomed.io/">CDT in AI for Biomedical Innovation</a> 
 at the School of Informatics. My research focuses on Robust Bayesian Experimental Design to better understand 
 Antibacterial Resistance. Before shifting my focus to using statistics and AI in biomedical computation, I was 
 dedicated to applying these disciplines to socioeconomic and environmental topics within international development 
