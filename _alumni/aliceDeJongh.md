@@ -8,7 +8,7 @@ img: assets/img/profiles/aliceDeJongh_cropped.jpg
 importance: 1
 category: Bachelor
 projects: [ar]
-degree: 
+degree: BSc.
 ---
 
 <div class="row">

@@ -8,7 +8,7 @@ img: assets/img/profiles/kateMcHugh_cropped.jpg
 importance: 1
 category: Bachelor
 projects: [ar]
-degree: 
+degree: BEng.
 ---
 
 <div class="row">
