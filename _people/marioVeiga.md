@@ -24,7 +24,7 @@ Before joining the group, I completed a double MSc in Bioinformatics and Systems
 and Vrije Universiteit Amsterdam. I completed my thesis as a visiting student at Adrian Bird's lab at the University of 
 Edinburgh. I also completed a BSc in Evolutionary Biology at the University of Edinburgh. <br> <br>
 
-Aside from research, I enjoy playing football, going to the gym, trying out different sports, wildlife photography, and 
+Aside from research, I enjoy playing volleyball, going to the gym, trying out different sports, wildlife photography, and 
 playing video games in my free time.
     </p>
   </div>
